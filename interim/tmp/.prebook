@@ -1,0 +1,8106 @@
+[
+  {
+    "tag": "pre",
+    "innerHtml": "<code>Alice in Wonderland\n\nA dramatization of Lewis Carroll’s  \n“Alice’s Adventures in Wonderland” and  \n“Through the Looking Glass”\n\nby  \n\nAlice Gerstenberg  \nAuthor of  \n“The Conscience of Sarah Platt”,  \n“Unquenched Fire,” “A Little World,” etc.\n\nChicago  \nA.C.Mc.Clurg & Co.  \n1915</code>"
+  },
+  {
+    "tag": "hr",
+    "innerHtml": ""
+  },
+  {
+    "tag": "img",
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/alice-in-wonderland-play/master/assets/images/img01.jpg"
+  },
+  {
+    "tag": "img",
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/alice-in-wonderland-play/master/assets/images/img02tmb.jpg"
+  },
+  {
+    "tag": "p",
+    "innerHtml": ""
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice: You’re Humpty Dumpty! Just like an egg."
+  },
+  {
+    "tag": "img",
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/alice-in-wonderland-play/master/assets/images/img03tmb.jpg"
+  },
+  {
+    "tag": "p",
+    "innerHtml": ""
+  },
+  {
+    "tag": "h3",
+    "innerHtml": "Dedication"
+  },
+  {
+    "tag": "img",
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/alice-in-wonderland-play/master/assets/images/img04.jpg"
+  },
+  {
+    "tag": "hr",
+    "innerHtml": ""
+  },
+  {
+    "tag": "h3",
+    "innerHtml": "Credits"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "This dramatic rendering of <em>Alice in Wonderland</em>, by Alice Gerstenberg of Chicago, was produced by The Players Producing Company of Chicago (Aline Barnsdall and Arthur Bissell), at the Fine Arts Theater, Chicago, February 11, 1915. After a successful run it opened at the Booth Theater, New York, March 23, 1915."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The scenery and the costumes were designed by William Penhallow Henderson of Chicago."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The music was written by Eric De Lamarter of Chicago."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The advertising posters and cards were designed by Jerome Blum of Chicago."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The illustrations of the characters of the play in this book were drawn by J. Allen St. John from photographs by Victor Georg of Chicago."
+  },
+  {
+    "tag": "hr",
+    "innerHtml": ""
+  },
+  {
+    "tag": "h3",
+    "innerHtml": "Cast"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "W. H. Gilmore staged the play with the following cast:"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Lewis Carroll"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Frank Stirling"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Vivian Tobin"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Red Queen"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Florence LeClercq"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "White Queen"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Mary Servoss"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "White Rabbit"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Donald Gallaher"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Humpty Dumpty"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alfred Donohoe"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Gryphon"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Fred W. Permain"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Mock Turtle"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Geoffrey Stein"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Mad Hatter"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Geoffrey Stein"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "March Hare"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Fred W. Permain"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Dormouse"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "J. Gunnis Davis"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Frog Footman"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Walter Kingsford"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Duchess"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Kenyon Bishop"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cheshire Cat"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alfred Donohoe"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "King of Hearts"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Frederick Annerly"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Queen of Hearts"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Winifred Hanley"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Knave of Hearts"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Foxhall Daingerfield"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Caterpillar"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Walter Kingsford"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Two of Spades"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Rule Pyott"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Five of Spades"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "France Bendtsen"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Seven of Spades"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "John A. Rice"
+  },
+  {
+    "tag": "hr",
+    "innerHtml": ""
+  },
+  {
+    "tag": "blockquote",
+    "innerHtml": "<p>Miss Gerstenberg’s manuscript called for costumes after the illustrations of John Tenniel, and scenery of the simple imaginative type, the “new art” in the theater.</p>"
+  },
+  {
+    "tag": "h4",
+    "innerHtml": "Act I"
+  },
+  {
+    "tag": "h4",
+    "innerHtml": "Scene One"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice’s <em>home.</em> Lewis Carroll <em>is discovered, playing chess. Golden-haired</em> Alice, <em>in a little blue dress, a black kitten in her arms, stands watching him.</em>"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "That’s a funny game, uncle. What did you do then?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Carroll"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "A red pawn took a white pawn; this way. You see, Alice, the chessboard is divided into sixty-four squares, red and white, and the white army tries to win and the red army tries to win. It’s like a battle!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "With soldiers?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Carroll"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Yes, here are the Kings and Queens they are fighting for. That’s the Red Queen and here’s the White Queen."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "How funny they look!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Carroll"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "See the crowns on their heads, and look at their big feet."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "It’s a foot apiece, that’s what it is! Do they hump along like this?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Carroll"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Here! You’re spoiling the game. I must keep them all in their right squares."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I want to be a queen!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Carroll"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Here <em>you</em> are [<em>he points to a small white pawn_] here _you</em> are in your little stiff skirt!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "How do you do, Alice!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Carroll"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "And now you are going to move here."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Let me move myself."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Carroll"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "When you have traveled all along the board this way and haven’t been taken by the enemy you may be a queen."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Why do people always play with kings and queens? Mother has them in her playing cards too. Look!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[Alice _goes to the mantel and takes a pack of playing cards from the ledge._]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Here’s the King of Hearts and here’s his wife; she’s the Queen of Hearts—isn’t she cross-looking? wants to bite one’s head off."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[Carroll _moves a pawn._]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "You’re playing against yourself, aren’t you?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Carroll"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "That’s one way of keeping in practice, Alice; I have friends in the university who want to beat me."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "But if you play against yourself I should think you’d want to cheat!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Carroll"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Does a nice little girl like you cheat when she plays against herself?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Oh! I <em>never</em> do! I’d scold myself hard. I always pretend I’m <em>two</em> people too. It’s lots of fun, isn’t it? Sometimes when I’m all alone I walk up to the looking glass and talk to the other Alice. She’s so silly, that Alice; she can’t do anything by herself. She just mocks me all the time. When I laugh, she laughs, when I point my finger at her, she points her finger at me, and when I stick my tongue out at her she sticks her tongue out at me! Kitty has a twin too, haven’t you darling?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[Alice _goes to the mirror to show Kitty her twin._]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Carroll"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I’ll have to write a book some day about Alice—Alice in wonderland, “Child of the pure unclouded brow and dreaming eyes of wonder!” or, Alice through the looking glass!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Don’t you wish sometimes you could go into looking-glass house? See!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[Alice _stands on an armchair and looks into the mirror._]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "There’s the room you can see through the glass; it’s just the same as our living-room here, only the things go the other way. I can see all of it—all but the bit just behind the fireplace. Oh! I do wish I could see that bit! I want so much to know if they’ve a fire there. You never <em>can</em> tell, you know, unless our fire smokes. Then smoke comes up in that room too—but that may be just to make it look as if they had a fire—just to pretend they had. The books are something like our books,  only the words go the wrong way. Won’t there ever be any way of our getting through, uncle?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Carroll"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Do you think Kitty would find looking-glass milk digestible?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "It doesn’t sound awful good, does it; but I might leave her at home. She’s been into an awful lot of mischief today. She found sister’s knitting and chased the ball all over the garden where sister was playing croquet with the neighbors. And I ran and ran after the naughty little thing until I was all out of breath and so tired! I am tired."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[_She yawns and makes herself comfortable in the armchair._]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Carroll"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[_Replaces the playing cards on the mantel and consults his watch._]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Take a nap. Yes, you have time before tea."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[_Half asleep._]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "We’re going to have mock turtle soup for supper! I heard mamma tell the cook not to pepper it too much."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Carroll"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "What a funny little rabbit it is, nibbling all the time!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[<em>He leans gently over the back of her chair, and seeing  that she is going to sleep puts out the lamp light and leaves the room. A red glow from the fireplace illumines</em> Alice.]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[<em>Dream music. A bluish light reveals the</em> Red Chess Queen <em>and the</em> White Chess Queen _in the mirror._]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Red Queen"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[<em>Points to</em> Alice _and says in a mysterious voice._]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "There she is, let’s call her over."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "White Queen"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Do you think she’ll come?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Red Queen"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I’ll call softly, Alice!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "White Queen"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Hist, Alice."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Red Queen"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "White Queen"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Hush—if she wakes and catches us—"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Both Queens"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice, come through into looking-glass house!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[_Their hands beckon her._]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[<em>Rises, and talks sleepily. The Queens disappear.</em> Alice _climbs from the arm of the chair to the back of another and so on up to the mantel ledge, where she picks her way daintily between the vases._]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I—don’t—know—how—I—can—get—through. I’ve tried—before—but the glass was hard—and I was afraid of cutting—my fingers—"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[_She feels the glass and is amazed to find it like gauze._]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Why, it’s soft like gauze; it’s turning into a sort of mist; why, it’s easy to get through! <em>Why—why_—I’m going _through</em>!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[_She disappears._]"
+  },
+  {
+    "tag": "hr",
+    "innerHtml": ""
+  },
+  {
+    "tag": "h4",
+    "innerHtml": "Scene Two"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[<em>Is Scene One, reversed. The portieres are black and red squares like a chessboard. A soft radiance follows the characters mysteriously. As the curtain rises</em> Alice <em>comes through the looking glass; steps down, looks about in wonderment and goes to see if there is a “fire.” The</em> Red Queen _rises out of the grate and faces her haughtily._]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Why, you’re the Red Queen!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Red Queen"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Of course I am! Where do you come from? And where are you going? Look up, speak nicely, and don’t twiddle your fingers!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I only wanted to see what the looking glass was like. Perhaps I’ve lost my way."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Red Queen"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I don’t know what you mean by your way; all the ways about here belong to <em>me</em>. Curtsey while you’re thinking what to say. It saves time."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I’ll try it when I go home; the next time I’m a little late for dinner."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Red Queen"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "It’s time for you to answer now; open your mouth a <em>little</em> wider when you speak, and always say, “Your Majesty.” I suppose you don’t want to lose your name?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "No, indeed."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Red Queen"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "And yet I don’t know, only think how convenient it would be if you could manage to go home without it! For instance, if the governess wanted to call you to your lessons, she would call out “come here,” and there she would have to leave off, because there wouldn’t be any name for her to call, and of course you wouldn’t have to go, you know."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "That would never do, I’m sure; the governess would never think of excusing me from lessons for that. If she couldn’t remember my name, she’d call me “Miss,” as the servants do."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Red Queen"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Well, if she said “Miss,” and didn’t say anything more, of course you’d miss your lessons. I dare say you can’t even read this book."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "It’s all in some language I don’t know. Why, it’s a looking-glass book, of course! And if I hold it up to a glass, the words will all go the right way again."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Jabberwocky<br>’Twas brillig, and the slithy toves<br>Did gyre and gimble in the wabe;<br>All mimsy were the borogoves,<br>And the mome raths outgrabe."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "It seems very pretty, but it’s <em>rather</em> hard to understand; somehow it seems to fill my head with ideas—only I don’t exactly know what they are."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Red Queen"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I daresay you don’t know your geography either. Look at the map!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[_She takes a right angle course to the portieres and points to them with her sceptre._]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "It’s marked out just like a big chessboard. I wouldn’t mind being a pawn, though of course I should like to be a Red Queen best."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Red Queen"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "That’s easily managed. When you get to the eighth square you’ll be a Queen. It’s a huge game of chess that’s being played—all over the world. Come on, we’ve got to run. Faster, don’t try to talk."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I can’t."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Red Queen"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Faster, faster."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Are we nearly there?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Red Queen"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Nearly there! Why, we passed it ten minutes ago. Faster. You may rest a little now."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Why, I do believe we’re in the same place. Everything’s just as it was."
+  },
+  {
+    "tag": "img",
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/alice-in-wonderland-play/master/assets/images/img05.jpg"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Red Queen"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Of course it is, what would you have it?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Well, in our country you’d generally get to somewhere else—if you ran very fast for a long time as we’ve been doing."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Red Queen"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "A slow sort of country. Now <em>here</em> you see, it takes all the running <em>you</em> can do, to keep in the same place. If you want to get somewhere else, you must run at least twice as fast as that."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I’d rather not try, please! I’m quite content to stay here—only I <em>am</em> so hot and thirsty."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Red Queen"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I know what you’d like."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[_She takes a little box out of her pocket._]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Have a biscuit?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[Alice, _not liking to refuse, curtseys as she takes the biscuit and chokes._]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Red Queen"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "While you’re refreshing yourself, I’ll just take the measurements."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[_She takes a ribbon out of her pocket and measures the map with it._]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "At the end of two yards I shall give you your directions—have another biscuit?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "No thank you, one’s <em>quite</em> enough."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Red Queen"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Thirst quenched, I hope? At the end of three yards I shall repeat them—for fear of your forgetting them. At the end of <em>four</em>, I shall say good-bye. And at the end of five, I shall go! That Square belongs to Humpty Dumpty and that Square to the Gryphon and Mock Turtle and that Square to the Queen of Hearts. But you make no remark?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I—I didn’t know I had to make one—just then."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Red Queen"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "You <em>should</em> have said, “It’s extremely kind of you to tell me all this,” however, we’ll suppose it said. Four! Good-bye! Five!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[Red Queen <em>vanishes in a gust of wind behind the portieres. Rabbit music.</em> White Rabbit _comes out of the fireplace and walks about the room hurriedly. He wears a checked coat, carries white kid gloves in one hand, a fan in the other and takes out his watch to look at it anxiously._]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "White Rabbit"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Oh the Duchess! the Duchess! Oh! won’t she be savage if I’ve kept her waiting!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I’ve never seen a rabbit with a waistcoat and a watch! And a waistcoat pocket! If you please, sir—"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "White Rabbit"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Oh!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[<em>He drops fan and gloves in fright and dashes out by way of the portieres in a gust of wind.</em> Alice _picks up the fan and playfully puts on the gloves. The portieres flap in the breeze and a shawl flies in._]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[<em>Catches the shawl and looks about for the owner; then meets the</em> White Queen.]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I’m very glad I happened to be in the way."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "White Queen"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[_Runs in wildly, both arms stretched out wide as if she were flying, and cries in a helpless frightened way._]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Bread-and-butter, bread-and-butter."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Am I addressing the White Queen?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "White Queen"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Well, yes, if you call that a-dressing. It isn’t my notion of the thing, at all."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "If your Majesty will only tell me the right way to begin, I’ll do it as well as I can."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "White Queen"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "But I don’t want it done at all. I’ve been a-dressing myself for the last two hours."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Every single thing’s crooked, and you’re all over pins; may I put your shawl straight for you?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "White Queen"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I don’t know what’s the matter with it! It’s out of temper. I’ve pinned it here, and I’ve pinned it there, but there’s no pleasing it."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "It <em>can’t</em> go straight, you know, if you pin it all on one side, and dear me, what a state your hair is in!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "White Queen"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The brush has got entangled in it! And I lost the comb yesterday."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[<em>Takes out the brush and arranges the</em> Queen’s _hair._]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "You look better now! But really you should have a lady’s maid!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "White Queen"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I’m sure I’ll take you with pleasure. Two pence a week and jam every other day."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[_Who cannot help laughing._]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I don’t want you to hire me—and I don’t care for jam."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "White Queen"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "It’s very good jam."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Well, I don’t want any today, at any rate."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "White Queen"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "You couldn’t have it if you <em>did</em> want it. The rule is, jam tomorrow and jam yesterday—but never jam today."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "It must come sometimes to “jam today.”"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "White Queen"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "No, it can’t, it’s jam every <em>other</em> day; today isn’t any <em>other</em> day, you know."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I don’t understand you, it’s dreadfully confusing!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "White Queen"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "That’s the effect of living backwards, it always makes one a little giddy at first—"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Living backwards! I never heard of such a thing!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "White Queen"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "But there’s one great advantage in it—that one’s memory works both ways."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I’m sure <em>mine</em> only works one way. I can’t remember things before they happen."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "White Queen"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "It’s a poor sort of memory that only works backwards."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "What sort of things do you remember best?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "White Queen"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Oh, things that happened the week after next. For instance now:"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[_She sticks a large piece of plaster on her finger._]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "There’s the King’s messenger—he’s in prison being punished; and the trial doesn’t even begin till next Wednesday; and of course the crime comes last of all."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Suppose he never commits the crime?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "White Queen"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[_Binding the plaster with ribbon._]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "That would be all the better, wouldn’t it?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Of course it would be all the better, but it wouldn’t be all the better his being punished."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "White Queen"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "You’re wrong <em>there</em>, at any rate; were <em>you</em> ever punished?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Only for faults."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "White Queen"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "And you were all the better for it, I know!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Yes, but then I <em>had</em> done the things I was punished for; that makes all the difference."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "White Queen"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "But if you hadn’t done them that would have been better still; better and better and better!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "There’s a mistake somewhere—"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "White Queen"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[_Screams like an engine whistle, and shakes her hand._]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Oh, Oh, Oh! My finger’s bleeding. Oh, Oh, Oh!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "What <em>is</em> the matter? Have you pricked your finger?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "White Queen"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I haven’t pricked it yet—but I soon shall—Oh, Oh, Oh!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "When do you expect to do it?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "White Queen"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "When I fasten my shawl again; the brooch will come undone directly. Oh, Oh!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[_Brooch flies open and she clutches it wildly._]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Take care! you’re holding it all crooked!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "White Queen"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[_Pricks her finger and smiles._]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "That accounts for the bleeding, you see; now you understand the way things happen here."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "But why don’t you scream now?"
+  },
+  {
+    "tag": "img",
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/alice-in-wonderland-play/master/assets/images/img06.jpg"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "White Queen"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Why, I’ve done all the screaming already. What would be the good of having it all over again? Oh! it’s time to run if you want to stay in the same place! Come on!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "No, no! Not so fast! I’m getting dizzy!!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "White Queen"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Faster, faster!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Everything’s black before my eyes!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[<em>There is music, and the sound of rushing wind, and in the darkness the</em> White Queen <em>cries: “Faster, faster”;</em> Alice <em>gasps: “I can’t—please stop”; and the</em> Queen _replies: “Then you can’t stay in the same place. I’ll have to drop you behind. Faster—faster, good-bye.”_]"
+  },
+  {
+    "tag": "hr",
+    "innerHtml": ""
+  },
+  {
+    "tag": "h4",
+    "innerHtml": "Scene Three"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "<em>When the curtain rises one sees nothing but odd black lanterns with orange lights, hanging, presumably, from the sky. The scene lights up slowly revealing</em> Alice <em>seated on two large cushions. She has been “dropped behind” by the</em> White Queen <em>and is dazed to find herself in a strange hall with many peculiar doors and knobs too high to reach.</em>"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Oh! my head! Where am I? Oh dear, Oh dear!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[_She staggers up and to her amazement finds herself smaller than the table._]"
+  },
+  {
+    "tag": "blockquote",
+    "innerHtml": "<p>I’ve never been smaller than any table before! I’ve always been able to reach the knobs! What a curious feeling. Oh! I’m shrinking. It’s the fan—the gloves!\n[_She throws them away, feels her head and measures herself against table and doors._]</p>"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Oh! saved in time! But I never—never—"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "White Rabbit"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Oh! my fan and gloves! Where <em>are</em> my—"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Oh! Mr. Rabbit—please help me out—I want to go home—I want to go home—"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "White Rabbit"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Oh! the Duchess! Oh! my fur and whiskers! She’ll get me executed, as sure as ferrets are ferrets! Oh! <em>you</em> have them!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I’m sorry—you dropped them, you know—"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "White Rabbit"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[_Picks up fan and gloves and patters off._]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "She’ll chop off your head!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "If you please sir—where am I?—won’t you please—tell me how to get out—I want to get out—"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "White Rabbit"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[_Looking at his watch._]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Oh! my ears and whiskers, how late it’s getting."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[<em>A trap door gives way and</em> Rabbit <em>disappears.</em> Alice _dashes after only in time to have the trap door bang in her face._]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[_Amazed._]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "It’s a rabbit-hole—I’m small enough to fit it too! If I shrink any more it might end in my going out altogether like a candle. I wonder what I would be like then! What does the flame of a candle look like after the candle is blown out? I’ve never seen such a thing!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Humpty Dumpty"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[_Sits on the wall._]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Don’t stand chattering to yourself like that, but tell me your name and your business."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "My <em>name</em> is Alice, but—"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Humpty Dumpty"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "It’s a stupid name enough, what does it mean?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "<em>Must</em> a name mean something?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Humpty Dumpty"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Of course it must; <em>my</em> name means the shape I am—and a good, handsome shape it is, too. With a name like yours, you might be any shape, almost."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "You’re Humpty Dumpty! Just like an egg."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Humpty Dumpty"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "It’s <em>very</em> provoking, to be called an egg—<em>very</em>."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I said you <em>looked</em> like an egg, Sir, and some eggs are very pretty, you know."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Humpty Dumpty"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Some people have no more sense than a baby."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Why do you sit here all alone?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Humpty Dumpty"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Why, because there’s nobody with me. Did you think I didn’t know the answer to <em>that</em>? Ask another."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Don’t you think you’d be safer down on the ground? That wall’s so very narrow."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Humpty Dumpty"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "What tremendously easy riddles you ask! Of course I don’t think so. Take a good look at me! I’m one that has spoken to a king, I am; to show you I’m not proud, you may shake hands with me!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[<em>He leans forward to offer</em> Alice _his hand but she is too small to reach it._]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "However, this conversation is going on a little too fast; let’s go back to the last remark but one."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I’m afraid I can’t remember it."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Humpty Dumpty"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "In that case we start fresh, and it’s my turn to choose a subject."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "You talk about it just as if it were a game."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Humpty Dumpty"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "So here’s a question for you. How old did you say you were?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Seven years and six months."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Humpty Dumpty"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Wrong! You never said a word about it. Now if you’d asked <em>my</em> advice, I’d have said, “Leave off at seven—but—”"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I never ask advice about growing."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Humpty Dumpty"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Too proud?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "What a beautiful belt you’ve got on. At least, a beautiful cravat, I should have said—no, a belt, I mean—I beg your pardon. If only I knew which was neck and which was waist."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Humpty Dumpty"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "It is a—_most—provoking_—thing, when a person doesn’t know a cravat from a belt."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I know it’s very ignorant of me."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Humpty Dumpty"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "It’s a cravat, child, and a beautiful one, as you say. There’s glory for you."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I don’t know what you mean by “glory.”"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Humpty Dumpty"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "When I use a word, it means just what I choose it to mean—neither more nor less."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The question is, whether you <em>can</em> make words mean different things."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Humpty Dumpty"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The question is, which is to be master—that’s all. Impenetrability! That’s what I say!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Would you tell me, please, what that means?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Humpty Dumpty"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I meant by “impenetrability” that we’ve had enough of that subject, and it would be just as well if you’d mention what you mean to do next, as I suppose you don’t mean to stop here all the rest of your life."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "That’s a great deal to make one word mean."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Humpty Dumpty"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "When I make a word do a lot of work like that I always pay it extra."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Oh!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Humpty Dumpty"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ah, you should see ’em come round me of a Saturday night, for to get their wages, you know. That’s all—Good-bye."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Good-bye till we meet again."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Humpty Dumpty"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I shouldn’t know you again, if we <em>did</em> meet, you’re so exactly like other people."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The face is what one goes by, generally."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Humpty Dumpty"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "That’s just what I complain of. Your face is the same as everybody has—the two eyes—so—nose in the middle, mouth under. It’s always the same. Now if you had the two eyes on the same side of the nose, for instance—or the mouth at the top—that would be <em>some</em> help."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "It wouldn’t look nice."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Humpty Dumpty"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Wait till you’ve tried! Good-bye."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[_He disappears as he came._]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Oh! I forgot to ask him how to—"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[<em>She tries to open the doors. They are all locked; she begins to weep. She walks weeping to a high glass table and sits down on its lower ledge. She sits on a big golden key and picks it up in surprise. She tries it on all the doors but it does not fit. She weeps and weeps—and Wonderland grows dark to her in her despair. In the darkness she cries, “Oh! I’m slipping! Oh, Oh! it’s a lake; Oh! my tears! I’m floating!” A mysterious light shows a “Drink me” sign around a bottle on the top of the table.</em> Alice _floats up to it panting, and holding on to the edge of the table takes up the bottle._]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "It isn’t marked poison."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[_She sips at it._]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "This is good! Tastes like cherry tart, custard, pineapple, roast turkey, toffy and hot buttered toast—all together. Oh! Oh! I’m letting out like a telescope."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[_A mysterious light shows her lengthening out._]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[_Music._]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "But the lake is rising too. Oh! Oh! it’s deep! I’m drowning. Help, help, I’m drowning, I’m drowning in my tears!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Gryphon"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Hjckrrh. Hjckrrh!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[<em>The</em> Gryphon, <em>a huge green creature with big glittering wings, appears where</em> Humpty Dumpty <em>had been and reaches glittering claws over to grab and save</em> Alice.]"
+  },
+  {
+    "tag": "hr",
+    "innerHtml": ""
+  },
+  {
+    "tag": "h4",
+    "innerHtml": "Scene Four"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "<em>Is symbolic of a wet and rocky shore in a weird green light. The</em> Mock Turtle <em>is weeping dismally.</em>"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Gryphon"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Hjckrrh. Hjckrrh. Hjckrrh."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Mock Turtle"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[_Answers with his weeping._]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Gryphon"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[<em>Drags</em> Alice _in._]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Drop your tears into the sea with his."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "He sobs as if he had a bone in his throat. He sighs as if his heart would break. What is his sorrow?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Mock Turtle"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Oh, Gryphon, it’s terrible!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Gryphon"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "It’s all his fancy that. Mock Turtle hasn’t got no sorrow. This here young lady, she wants for to know your history, she do."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Mock Turtle"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I’ll tell it her. Sit down both of you, and don’t speak a word till I’ve finished."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I don’t see how you can <em>ever</em> finish, if you don’t begin."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Mock Turtle"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Once, I was a real Turtle."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[<em>A long silence is broken only by the exclamations, “Hjckrrh,” of the</em> Gryphon <em>and the heavy sobbing of the</em> Mock Turtle.]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Mock Turtle"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "When we were little, we went to school in the sea. The master was an old Turtle—we used to call him tortoise—"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Why did you call him Tortoise, if he wasn’t one?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Mock Turtle"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "We called him Tortoise because he taught us; really you are very dull."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Gryphon"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "You ought to be ashamed of yourself for asking such a simple question. Drive on, old fellow! Don’t be all day about it!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Mock Turtle"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Yes, we went to school in the sea, tho’ you mayn’t believe it—"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I never said I didn’t."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Mock Turtle"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "You did."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Gryphon"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Hold your tongue!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Mock Turtle"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "We had the best of educations—in fact, we went to school every day."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I’ve been to a day school too; you needn’t be so proud as all that."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Mock Turtle"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "With extras?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Yes, we learned French and music."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Mock Turtle"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "And washing?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Certainly not!"
+  },
+  {
+    "tag": "img",
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/alice-in-wonderland-play/master/assets/images/img07.jpg"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Mock Turtle"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ah! Then yours wasn’t a really good school. Now at <em>ours</em> they had at the end of the bill, French, music, _and washing_—extra."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "You couldn’t have wanted it much; living at the bottom of the sea."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Mock Turtle"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I couldn’t afford to learn it, I only took the regular course."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "What was that?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Mock Turtle"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Reeling and writhing, of course, to begin with, and then the different branches of Arithmetic—Ambition, Distraction, Uglification, and Derision."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I never heard of Uglification. What is it?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Gryphon"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Never heard of uglifying! You know what to beautify is, I suppose?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Yes, it means—to—make—anything—prettier."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Gryphon"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Well then, if you don’t know what to uglify is, you <em>are</em> a simpleton."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "What else had you to learn?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Mock Turtle"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Well, there was Mystery; Mystery, ancient and modern, with Seaography, then Drawling—the Drawling-master was an old conger eel, that used to come once a week; what <em>he</em> taught us was Drawling, Stretching, and Fainting in Coils."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "What was <em>that</em> like?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Mock Turtle"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Well, I can’t show it you, myself. I’m too stiff. And the Gryphon never learned it."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Gryphon"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Hadn’t time; I went to the Classical master, though. He was an old crab, <em>he</em> was."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Mock Turtle"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I never went to him; he taught Laughing and Grief, they used to say."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Gryphon"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "So he did, so he did."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "And how many hours a day did you do lessons?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Mock Turtle"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ten hours the first day, nine the next, and so on."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "What a curious plan!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Gryphon"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "That’s the reason they’re called lessons, because they lessen from day to day."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Then the eleventh day must have been a holiday?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Mock Turtle"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Of course it was."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "And how did you manage on the twelfth?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Gryphon"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "That’s enough about lessons, tell her something about the games now."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[Mock Turtle <em>sighs deeply, draws back of one flapper across his eyes. He looks at</em> Alice _and tries to speak but sobs choke his voice._]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Gryphon"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[_Punching him in the back._]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Same as if he had a bone in his throat."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Mock Turtle"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[_With tears running down his cheeks._]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "You may not have lived much under the sea—"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I haven’t."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Mock Turtle"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "And perhaps you were never even introduced to a lobster."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I once tasted—no, never!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Mock Turtle"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "So you can have no idea what a delightful thing a Lobster Quadrille is."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "No, indeed. What sort of a dance is it?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Gryphon"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Why, you first form into a line along the seashore."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Mock Turtle"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Two lines; seals, turtles, salmon, and so on; then, when you’ve cleared all the jellyfish out of the way—"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Gryphon"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "<em>That</em> generally takes some time."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Mock Turtle"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "You advance twice—"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Gryphon"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Each with a lobster as a partner."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Mock Turtle"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Of course, advance twice, set to partners."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Gryphon"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Change lobsters, and retire in same order."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Mock Turtle"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Then you know, you throw the—"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Gryphon"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The lobsters!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Mock Turtle"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "As far out to sea as you can—"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Gryphon"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Swim after them!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Mock Turtle"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Turn a somersault in the sea."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Gryphon"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Change lobsters again!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Mock Turtle"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Back to land again, and—that’s all the first figure."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "It must be a very pretty dance."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Mock Turtle"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Would you like to see a little of it?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Very much indeed."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Mock Turtle"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Come, let’s try the first figure. We can do it without lobsters, you know; which shall sing?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Gryphon"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Oh, <em>you</em> sing, I’ve forgotten the words."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[<em>Creatures solemnly dance round and round</em> Alice, <em>treading on her toes, waving fore-paws to mark time while</em> Mock Turtle _sings._]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "First Verse<br>“Will you walk a little faster!” said a whiting to a snail,<br>“There’s a porpoise close behind us, and he’s treading on my tail.<br>See how eagerly the lobsters and the turtles all advance!  \nThey are waiting on the shingle—will you come and join the dance?<br>Will you, won’t you, will you, won’t you, will you join the dance?<br>Will you, won’t you, will you, won’t you, won’t you join the dance?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Second Verse<br>“You can really have no notion how delightful it will be<br>When they take us up and throw us, with the lobsters, out to sea!”<br>But the snail replied, “Too far, too far!” and gave a look askance—<br>Said he thanked the whiting kindly, but he would not join the dance.<br>Would not, could not, would not, could not, would not join the dance.<br>Would not, could not, would not, could not, could not join the dance."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[<em>The creatures dance against</em> Alice, _pushing her back and forth between them. She protests and finally escapes; they bump against each other._]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Thank you; it’s a very interesting dance to watch, and I do so like that curious song about the whiting."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Mock Turtle"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Oh, as to the whiting, they—you’ve seen them, of course?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Yes, I’ve often seen them at din—"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[_Checks herself hastily._]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Mock Turtle"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I don’t know where Din may be, but if you’ve seen them so often, of course you know what they’re like."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I believe so, they have their tails in their mouths—and they’re all over crumbs."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Mock Turtle"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "You’re wrong about the crumbs, crumbs would all wash off in the sea. But they <em>have</em> their tails in their mouths; and the reason is—"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[Mock Turtle _yawns and shuts his eyes._]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Tell her about the reason and all that."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Gryphon"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The reason is, that they <em>would</em> go with the lobsters to the dance. So they got thrown out to sea. So they had to fall a long way. So they got their tails fast in their mouths. So they couldn’t get them out again. That’s all."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Thank you, it’s very interesting. I never knew so much about a whiting before."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Gryphon"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I can tell you more than that, if you like. Do you know why it’s called a whiting?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I never thought about it. Why?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Gryphon"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "<em>It does the boots and shoes.</em>"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Does the boots and shoes!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Gryphon"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Why, what are <em>your</em> shoes done with? I mean, what makes them so shiny?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "They’re done with blacking, I believe."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Gryphon"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Boots and shoes under the sea, are done with whiting. Now you know."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "And what are they made of?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Gryphon"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Soles and eels, of course; any shrimp could have told you that."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "If I’d been the whiting, I’d have said to the porpoise, “Keep back, please; we don’t want <em>you</em> with us.”"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Mock Turtle"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "They were obliged to have him with them, no wise fish would go anywhere without a porpoise."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Wouldn’t it really?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Mock Turtle"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Of course not; why if a fish came to me and told me he was going a journey, I should say, “With what porpoise?”"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Don’t you mean purpose?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Mock Turtle"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I mean what I say."
+  },
+  {
+    "tag": "img",
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/alice-in-wonderland-play/master/assets/images/img08.jpg"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Gryphon"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Shall we try another figure of the Lobster Quadrille? Or would you like the Mock Turtle to sing you a song?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Oh, a song please, if the Mock Turtle would be so kind."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Gryphon"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Um! No accounting for tastes! Sing her “Turtle Soup,” will you, old fellow?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Mock Turtle"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[_Sighs deeply and sometimes choked with sobs, sings._]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "“Beautiful Soup, so rich and green,<br>Waiting in a hot tureen!  \nWho for such dainties would not stoop?<br>Soup of the evening, beautiful Soup!  \nSoup of the evening, beautiful Soup!  \nBeau—ootiful Soo—op,<br>Beau—ootiful Soo—oop,<br>Soo—oop of the e-e-evening,<br>Beautiful, beautiful Soup.”"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "White Rabbit"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[<em>Enters, stretching out a red and white checked sash with which he separates</em> Alice _from the creatures._]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Check!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Mock Turtle"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "They won’t let her stay in our square."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "White Rabbit"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The Queen is coming this way."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Gryphon"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "She’ll chop our heads off. Come on, come on, let’s fly!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[<em>The</em> Mock Turtle <em>and</em> Gryphon <em>grab</em> Alice _and fly into the air._]"
+  },
+  {
+    "tag": "hr",
+    "innerHtml": ""
+  },
+  {
+    "tag": "h4",
+    "innerHtml": "Curtain"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[<em>The Curtain rises to reveal small silhouettes of the</em> Gryphon, Mock Turtle, <em>and</em> Alice <em>in an orange-colored moon far away in the sky. Down below the</em> White Rabbit _is shouting to them, “You’ll be safe in the March Hare’s garden.”_]"
+  },
+  {
+    "tag": "hr",
+    "innerHtml": ""
+  },
+  {
+    "tag": "h4",
+    "innerHtml": "Curtain"
+  },
+  {
+    "tag": "hr",
+    "innerHtml": ""
+  },
+  {
+    "tag": "h4",
+    "innerHtml": "Act Ii"
+  },
+  {
+    "tag": "hr",
+    "innerHtml": ""
+  },
+  {
+    "tag": "h4",
+    "innerHtml": "Scene"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "<em>The March Hare’s garden, showing part of the Duchess’ house. On a small platform there is a tea table, set with many cups, continuing into wings to give impression of limitless length.</em> The March Hare, Hatter, and Dormouse <em>are crowded at one end.</em> Alice <em>sits on the ground where she has been dropped from the sky. Finding herself not bruised she rises and approaches the table.</em>"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "March Hare and Hatter"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "No room! No room!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "There’s plenty of room!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[_She sits in a large armchair at one end of the table._]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I don’t know who you are."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "March Hare"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I am the March Hare, that’s the Hatter, and this is the Dormouse. Have some wine?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I don’t see any wine."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "March Hare"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "There isn’t any."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Then it wasn’t very civil of you to offer it."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "March Hare"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "It wasn’t very civil of you to sit down without being invited."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I didn’t know it was <em>your</em> table; it’s laid for a great many more than three."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Hatter"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Your hair wants cutting."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "You should learn not to make personal remarks; it’s very rude."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Hatter"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Why is a raven like a writing-desk?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Come, we shall have some fun now! I’m glad you’ve begun asking riddles—I believe I can guess that."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "March Hare"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "So you mean that you think you can find out the answer to it?"
+  },
+  {
+    "tag": "img",
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/alice-in-wonderland-play/master/assets/images/img09tmb.jpg"
+  },
+  {
+    "tag": "p",
+    "innerHtml": ""
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Hatter: Your hair wants cutting."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Exactly so."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "March Hare"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Then you should say what you mean."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I do; at least—at least I mean what I say—that’s the same thing, you know."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Hatter"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Not the same thing a bit! Why, you might just as well say that “I see what I eat” is the same thing as, “I eat what I see!”"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "March Hare"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "You might just as well say that “I like what I get,” is the same thing as “I get what I like.”"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Dormouse"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "You might just as well say that “I breathe when I sleep” is the same thing as “I sleep when I breathe.”"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Hatter"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "It <em>is</em> the same thing with you."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[_Takes out his watch, looks at it uneasily, shakes it, holds it to his ear._]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "What day of the month is it?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The fourth."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Hatter"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Two days wrong. I told you butter wouldn’t suit the works!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "March Hare"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "It was the <em>best</em> butter."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Hatter"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Yes, but some crumbs must have got in as well; you shouldn’t have put it in with the bread-knife—"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "March Hare"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[_Takes the watch, looks at it gloomily, dips it into his cup of tea and looks at it again but doesn’t know what else to say._]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "It was the <em>best</em> butter, you know."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "What a funny watch! It tells the day of the month, and doesn’t tell what o’clock it is."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Hatter"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Why should it? Does <em>your</em> watch tell you what year it is?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Of course not, but that’s because it stays the same year for such a long time together."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Hatter"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Which is just the case with <em>mine</em>."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I don’t quite understand you. What you said had no sort of meaning in it and yet it was certainly English."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Hatter"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[<em>Pouring some hot tea on the</em> Dormouse’s _nose._]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The Dormouse is asleep again."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Dormouse"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Of course, of course, just what I was going to remark myself."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Hatter"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Have you guessed the riddle yet?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "No, I give it up, what’s the answer?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Hatter"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I haven’t the slightest idea."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "March Hare"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Nor I."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I think you might do something better with the time, than wasting it in asking riddles that have no answers."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Hatter"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "If you knew Time as well as I do, you wouldn’t talk about wasting <em>it</em>. It’s <em>him</em>."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I don’t know what you mean."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Hatter"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Of course you don’t. I dare say you never even spoke to Time."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Perhaps not, but I know I have to beat time when I learn music."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Hatter"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ah, that accounts for it. He won’t stand beating. Now, if you only kept on good terms with him, he’d do almost anything you liked with the clock. For instance, suppose it were nine o’clock in the morning, just time to begin lessons. You’d only have to whisper a hint to Time, and round goes the clock in a twinkling! Half past one, time for dinner."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "March Hare"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I only wish it was."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "That would be grand, certainly, but then—I shouldn’t be hungry for it, you know."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Hatter"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Not at first, perhaps, but you could keep it to half past one as long as you liked."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Is that the way <em>you</em> manage?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Hatter"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Not I, we quarreled last March—just before <em>he</em> went mad, you know. It was at the great concert given by the Queen of Hearts and I had to sing."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "“Twinkle, twinkle, little bat!  \nHow I wonder what you’re at!”"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "You know the song, perhaps."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I’ve heard something like it."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Dormouse"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Twinkle, twinkle, twinkle—"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Hatter"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Well, I’d hardly finished the first verse when the Queen bawled out, “He’s murdering the time! Off with his head!”"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "How dreadfully savage!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Hatter"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "And ever since that, he won’t do a thing I ask! It’s always six o’clock now."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Is that the reason so many tea things are put out here?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Hatter"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Yes, that’s it; it’s always tea time, and we’ve no time to wash the things between whiles."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Then you keep moving round, I suppose?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Hatter"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Exactly so, as the things get used up."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "But when you come to the beginning again?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "March Hare"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Suppose we change the subject. I vote the young lady tells us a story."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I’m afraid I don’t know one."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "March Hare and Hatter"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Then the Dormouse shall. Wake up Dormouse."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[_They pinch him on both sides at once._]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Dormouse"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[_Opens his eyes slowly and says in a hoarse, feeble voice._]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I wasn’t asleep, I heard every word you fellows were saying."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "March Hare"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Tell us a story."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Yes, please do!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Hatter"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "And be quick about it, or you’ll be asleep again before it’s done."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Dormouse"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Once upon a time there were three little sisters, and their  names were Elsie, Lacie, and Tillie and they lived at the bottom of a well—"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "What did they live on?"
+  },
+  {
+    "tag": "img",
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/alice-in-wonderland-play/master/assets/images/img10.jpg"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Dormouse"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "They lived on treacle."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "They couldn’t have done that, you know, they’d have been ill."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Dormouse"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "So they were, <em>very</em> ill."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "But why did they live at the bottom of a well?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "March Hare"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Take some more tea."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I’ve had nothing yet, so I can’t take more."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Hatter"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "You mean, you can’t take <em>less</em>; it’s very easy to take <em>more</em> than nothing."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Nobody asked <em>your</em> opinion."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Hatter"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Who’s making personal remarks now?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[_Helps herself to tea and bread and butter._]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Why did they live at the bottom of a well?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Dormouse"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[_Takes a minute or two to think._]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "It was a treacle-well."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "There’s no such thing!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Hatter and March Hare"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Sh! Sh!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Dormouse"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "If you can’t be civil, you’d better finish the story for yourself."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[_Very humbly._]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "No, please go on. I won’t interrupt you again. I dare say there may be <em>one</em>."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Dormouse"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "One, indeed! And so these three little sisters—they were learning to draw, you know—"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "What did they draw?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Dormouse"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Treacle."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Hatter"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I want a clean cup. Let’s all move one place on."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[Hatter <em>moves on,</em> Dormouse <em>takes his place,</em> March Hare <em>takes</em> Dormouse’s <em>place and</em> Alice <em>unwillingly takes</em> March Hare’s _place._]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I’m worse off than I was before. You’ve upset the milk jug into your plate."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "March Hare"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "It wasn’t very civil of you to sit down without being invited."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Where did they draw the treacle from?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Hatter"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "You can draw water out of a water well, so I should think you could draw treacle out of a treacle well—eh, stupid?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "But they were <em>in</em> the well."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Dormouse"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Of course they were—well in. They were learning to draw, and they drew all manner of things—everything that begins with an M—"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Why with an M?"
+  },
+  {
+    "tag": "img",
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/alice-in-wonderland-play/master/assets/images/img11.jpg"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "March Hare"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Why not?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[Alice <em>is silent and confused.</em> Hatter <em>pinches</em> Dormouse _to wake him up._]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Dormouse"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[_Wakes with a little shriek and continues._]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "——that begins with an M, such as mousetraps and the moon and memory and muchness—you know you say things are “much of a muchness”—did you ever see such a thing as a drawing of a muchness?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Hatter"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Did you?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Really now you ask me, I don’t think—"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Hatter"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Then you shouldn’t talk."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "March Hare"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "No!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[_Rises and walks away._]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "You are very rude. It’s the stupidest tea party I ever was at in all my life—"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[White Rabbit _enters carrying a huge envelope with a seal and crown on it._]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "March Hare and Hatter"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "No room! no room!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[_Rabbit pays no attention to them but goes to the house and raps loudly. A footman in livery with a round face and large eyes like a frog and powdered hair opens the door._]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "White Rabbit"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "For the Duchess. An invitation from the Queen to play croquet."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Frog"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "From the Queen. An invitation for the Duchess to play croquet."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[White Rabbit _bows and goes out._]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "March Hare and Hatter"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[<em>To</em> White Rabbit.]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "No room! No room! No room!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[<em>The</em> Frog _disappears into the house but leaves the door open. There is a terrible din and many sauce pans fly out._]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "March Hare"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "She’s at it again."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Hatter"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "It’s perfectly disgusting."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "March Hare"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Let’s move on."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[<em>The platform moves off with table, chairs,</em> March Hare,  Hatter, <em>and</em> Dormouse. <em>Meanwhile the</em> Frog <em>has come out again and is sitting near the closed door, staring stupidly at the sky.</em> Alice _goes to the door timidly and knocks._]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Frog"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "There’s no sort of use in knocking, and that for two reasons: first, because I’m on the same side of the door as you are; secondly, because they’re making such a noise inside, no one could possibly hear you."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Please then, how am I to get in?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Frog"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "There might be some sense in your knocking if we had the door between us. For instance, if you were <em>inside</em>, you might knock, and I could let you out, you know."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "How am I to get in?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Frog"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I shall sit here, till tomorrow."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[<em>The door opens and a large plate skims out straight at the</em> Frog’s _head; it grazes his nose and breaks into pieces._]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[Frog _acts as if nothing had happened._]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Or next day, maybe."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "How am I to get in?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Frog"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "<em>Are</em> you to get in at all? That’s the first question, you know."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "It’s really dreadful the way all you creatures argue. It’s enough to drive one crazy."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Frog"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I shall sit here, on and off, for days and days."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "But what am I to do?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Frog"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Anything you like."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[_He begins to whistle._]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Where’s the servant whose business it is to answer the door?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Frog"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Which door?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "<em>This</em> door, of course!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[<em>The</em> Frog _looks at the door, and rubs his thumb on it to see if the paint will come off._]"
+  },
+  {
+    "tag": "img",
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/alice-in-wonderland-play/master/assets/images/img12tmb.jpg"
+  },
+  {
+    "tag": "p",
+    "innerHtml": ""
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Frog: I shall sit here till tomorrow."
+  },
+  {
+    "tag": "img",
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/alice-in-wonderland-play/master/assets/images/img13.jpg"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Frog"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "To answer the door? What’s it been asking for?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I don’t know what you mean."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Frog"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I speaks English, doesn’t I? Or are you deaf? What did it ask you?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Nothing! I’ve been knocking at it."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Frog"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Shouldn’t do that—shouldn’t do that, vexes it, you know."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[_He kicks the door._]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "You let <em>it</em> alone, and it’ll let <em>you</em> alone, you know."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Oh, there’s no use talking to you—"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[<em>She starts to open the door just as the</em> Duchess <em>comes out carrying a pig in baby’s clothes. She sneezes_—Frog _sneezes and</em> Alice _sneezes._]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Duchess"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "If everybody minded her own business—"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[_She sneezes._]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "It’s pepper."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Duchess"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Of course, my cook puts it in the soup."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "There’s certainly too much pepper in the soup."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Duchess"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Sneeze then and get rid of it!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[Duchess _begins to sing to the baby, giving it a violent shake at the end of every line of the lullaby._]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "“Speak roughly to your little boy,<br>And beat him when he sneezes;"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[Frog <em>and</em> Alice _sneeze._]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "He only does it to annoy,<br>Because he knows it teases."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[Duchess <em>sneezes,</em> Frog <em>sneezes,</em> Alice _sneezes._]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I speak severely to my boy,<br>I beat him when he sneezes;"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[Frog <em>sneezes,</em> Alice _sneezes._]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "For he can thoroughly enjoy<br>The pepper when he pleases!”"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[Duchess <em>sneezes,</em> Frog <em>sneezes,</em> Alice <em>sneezes,</em> Duchess _gasps and gives a tremendous sneeze._]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Oh dear!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[<em>She jumps aside as kettles and pots come flying out of the door. The</em> Duchess _pays no attention._]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "What a cook to have!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[_She calls inside._]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Oh! <em>please</em> mind what you’re doing!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[_Another pan comes out and almost hits the baby._]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Oh! there goes his <em>precious</em> nose!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Duchess"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "If everybody minded her own business, the world would go round a deal faster than it does."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Which would not be an advantage. Just think what work it would make with the day and night! You see the earth takes twenty-four hours to turn round on its axis—"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Duchess"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Talking of axes, chop off her head!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[_The head of a grinning Cheshire cat appears in a tree above a wall._]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Oh, what’s that?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Duchess"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cat, of course."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Why does it grin like that?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Duchess"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "It’s a Cheshire cat! and that’s why. [_To baby._] Pig!"
+  },
+  {
+    "tag": "img",
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/alice-in-wonderland-play/master/assets/images/img14tmb.jpg"
+  },
+  {
+    "tag": "p",
+    "innerHtml": ""
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Duchess: I speak severely to my boy,<br>I beat him when he sneezes."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I didn’t know that Cheshire cats always grinned; in fact, I didn’t know that cats <em>could</em> grin."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Duchess"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "They all can and most of ’em do."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I don’t know of any that do."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Duchess"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "You don’t know much and that’s a fact. Here, you may nurse it a bit, if you like!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[<em>Flings the baby at</em> Alice.]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I must go and get ready to play croquet with the Queen."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[_She goes into the house._]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "If I don’t take this child away with me, they’re sure to kill it in a day or two. Cheshire Puss, would you tell me please, which way I ought to walk from here?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cat"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "That depends a good deal on where you want to get to."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I don’t much care where—"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cat"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Then it doesn’t matter which way you walk."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "So long as I get <em>somewhere</em>."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cat"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Oh, you’re sure to do that, if you only walk long enough."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Please, will you tell me what sort of people live about here?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cat"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "All mad people."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "But I don’t want to go among mad people."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cat"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Oh, you can’t help that; we’re all mad here. I’m mad. He’s mad. He’s dreaming now, and what do you think he’s dreaming about?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[<em>Goes to the</em> Frog _to scrutinize his face._]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Nobody could guess that."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cat"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Why, about you! And if he left off dreaming about you, where do you suppose you’d be?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Where I am now, of course."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cat"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Not you. You’d be nowhere. Why, you’re only a sort of thing in his dream; and you’re mad too."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "How do you know I’m mad?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cat"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "You must be, or you wouldn’t have come here."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "How do you know that you’re mad?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cat"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "To begin with, a dog’s not mad. You grant that?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I suppose so."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cat"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Well then, you see a dog growls when it’s angry, and wags its  tail when it’s pleased. Now I growl when I’m pleased, and wag my tail when I’m angry. Therefore I’m mad."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I call it purring, not growling."
+  },
+  {
+    "tag": "img",
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/alice-in-wonderland-play/master/assets/images/img15.jpg"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cat"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Call it what you like. Do you play croquet with the Queen today?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I should like it very much, but I haven’t been invited yet."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cat"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "You’ll see me there."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[_Vanishes._]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[_To squirming baby._]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Oh, dear, it’s heavy and so ugly. Don’t grunt—Oh—Oh—it’s a—pig. Please Mr. Footman take it!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Frog"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[<em>Rises with dignity, whistles and disappears into the house; a kettle comes bounding out.</em> Alice _puts pig down and it crawls off._]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cat"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[_Appearing again._]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "-the-bye, what became of the baby?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "It turned into a pig."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cat"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I thought it would."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[_Vanishes._]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[Frog _comes out of the house with hedgehogs and flamingoes._]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cat"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[_Reappearing._]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Did you say pig, or fig?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I said pig; and I wish you wouldn’t keep appearing and vanishing so suddenly; you make one quite giddy."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cat"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "All right. [_It vanishes slowly._]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[Frog <em>puts flamingoes down and reenters house. While</em> Alice <em>is examining the flamingoes curiously,</em> Tweedledum <em>and</em> Tweedledee, <em>each with an arm round the other’s neck, sidestep in and stand looking at</em> Alice.]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[_Turns, sees them, starts in surprise and involuntarily whispers._]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Tweedle—dee."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Dum"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Dum!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Dee"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "If you think we’re waxworks, you ought to pay."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Dum"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Contrariwise, if you think we’re alive, you ought to speak."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Dee"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The first thing in a visit is to say “How d’ye do?” and shake hands!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[<em>The brothers give each other a hug, then hold out the two hands that are free, to shake hands with her.</em> Alice _does not like shaking hands with either of them first, for fear of hurting the other one’s feelings; she takes hold of both hands at once and they all dance round in a ring, quite naturally to music, “Here we go round the mulberry bush.”_]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Would you tell me which road leads out of—"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Dee"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "What shall I repeat to her?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Dum"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The “Walrus and the Carpenter” is the longest."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[_Gives his brother an affectionate hug._]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Dee"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The sun was shining—"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "If it’s very long, would you please tell me first which road—"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Dee"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The moon was shining sulkily."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Dum"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The sea was wet as wet could be—"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Dee"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "O Oysters, come and walk with us<br>The Walrus did beseech—"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Dum"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[<em>Looks at</em> Dee.]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "A pleasant walk, a pleasant talk,<br>Along the briny beach—"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Dee"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[<em>Looks at</em> Dum.]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The eldest Oyster winked his eye<br>And shook his heavy head—"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Dum"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[<em>Looks at</em> Dee.]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Meaning to say he did not choose<br>To leave the oyster bed."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Dee"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "But four young Oysters hurried up<br>And yet another four—"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Dum"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "And thick and fast they came at last,<br>And more, and more, and more—"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Dee"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The Walrus and the Carpenter<br>Walked on a mile or so,"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Dum"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "And then they rested on a rock<br>Conveniently low,"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Dee"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "And all the little Oysters stood<br>And waited in a row."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Dum"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "“A loaf of bread,” the Walrus said,<br>“Is what we chiefly need."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Dee"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Now if you’re ready, Oysters dear,<br>We can begin to feed.”"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Dum"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "“But not on us!” the Oysters cried,<br>Turning a little blue."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Dee"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "“The night is fine,” the Walrus said,<br>“Do you admire the view?”"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Dum"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The Carpenter said nothing but<br>“Cut us another slice.<br>I wish you were not quite so deaf—<br>I’ve had to ask you twice!”"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Dee"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "“It seems a shame,” the Walrus said,<br>“To play them such a trick,<br>After we’ve brought them out so far,<br>And made them trot so quick!”"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Dum"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "“O, Oysters,” said the Carpenter,<br>“You’ve had a pleasant run!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Dee"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Shall we be trotting home again?”"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Dum"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "But answer came there none—"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Dee"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "And this was scarcely odd, because"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Dum"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "They’d eaten every—"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Dee"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[_Interrupts in a passion, pointing to a white rattle on the ground._]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Do you see <em>that</em>?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "It’s only a rattle—"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Dum"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[_Stamps wildly and tears his hair._]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I knew it was! It’s spoilt of course. My nice new rattle!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[<em>To</em> Dee.]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "You agree to have a battle?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[_He collects sauce pans and pots._]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Dee"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[_Picks up a sauce pan._]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I suppose so. Let’s fight till dinner."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[_They go out hand in hand._]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[_Hears music._]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I wonder what is going to happen next."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[<em>She backs down stage respectfully as the</em> King <em>and</em> Queen of Hearts <em>enter, followed by the</em> Knave of Hearts <em>carrying the</em> King’s <em>crown on a crimson velvet cushion, and the</em> White Rabbit <em>and others. When they come opposite to</em> Alice _they stop and look at her._]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[<em>The</em> Duchess _comes out of her house._]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Queen"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[<em>To the</em> Knave.]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Who is this?"
+  },
+  {
+    "tag": "img",
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/alice-in-wonderland-play/master/assets/images/img16.jpg"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Knave"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[_Bows three times, smiles and giggles._]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Queen"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Idiot! What’s your name, child?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "My name is Alice, so please your Majesty."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Queen"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Off with her head! Off—"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Nonsense!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "King"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Consider, my dear, she is only a child."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Queen"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Can you play croquet?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Yes."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Queen"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Come on then. Get to your places. Where are the mallets?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Duchess"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Here."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[<em>The</em> Frog _appears with the flamingoes and hedgehogs._]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Queen"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Off with his head!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[_No one pays any attention._]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Knave"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "What fun!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "What is the fun?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Knave"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Why she; it’s all her fancy, that. They never execute anyone."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "What does one do?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Queen"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Get to your places!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[<em>She takes a flamingo, uses its neck as a mallet and a hedgehog as a ball. The</em> Frog <em>doubles himself into an arch. The</em> King <em>does the same with the followers and the</em> Knave <em>offers himself as an arch for</em> Alice. <em>Even though</em> Alice <em>does not notice him he holds the arch position. The</em> Queen _shouts at intervals, “Off with his head, off with her head.”_]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Where are the Chess Queens?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Rabbit"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Under sentence of execution."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "What for?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Rabbit"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Did you say, “what a pity”?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "No, I didn’t. I don’t think it’s at all a pity. I said, “What for?”"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Rabbit"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "They boxed the Queen’s ears."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[Alice _gives a little scream of laughter._]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Rabbit"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Oh, hush! The Queen will hear you! You see they came rather late and the Queen said—Oh dear, the Queen hears me—"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[_He hurries away._]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[<em>Noticing the</em> Knave _who still pretends to be an arch._]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "How <em>can</em> you go on thinking so quietly, with your head downwards?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Knave"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "What does it matter where my body happens to be? My mind goes on working just the same. The fact of it is, the more head downwards I am, the more I keep on inventing new things."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "King"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Did you happen to meet any soldiers, my dear, as you came through the wood?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Yes, I did; several thousand I should think."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "King"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Four thousand, two hundred and seven, that’s the exact number. They couldn’t send all the horses, you know, because two of them are wanted in the game. And I haven’t sent the two messengers, either."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "What’s the war about?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "King"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The red Chess King has the whole army against us but he can’t kill a man who has thirteen hearts."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[<em>The</em> Duchess, Queen, Frog, <em>and followers go out. The</em> Knave <em>and the</em> Five-Spot, Seven-Spot, <em>and</em> Nine-Spot of Hearts <em>stand behind the</em> King.]"
+  },
+  {
+    "tag": "img",
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/alice-in-wonderland-play/master/assets/images/img17tmb.jpg"
+  },
+  {
+    "tag": "p",
+    "innerHtml": ""
+  },
+  {
+    "tag": "p",
+    "innerHtml": "King: I only wish I had such eyes; to be able to see Nobody!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "King"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Just look along the road and tell me if you can see either of my messengers."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I see nobody on the road."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "King"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I only wish I had such eyes; to be able to see Nobody! And at that distance too! Why, it’s as much as I can do to see real people, by this light."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I see somebody now! But he’s coming very slowly—and what curious attitudes he goes into—skipping up and down, and wriggling like an eel."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "King"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Not at all, those are Anglo-Saxon attitudes. He only does them when he’s happy. I must have two messengers, you know—to come and go. One to come and one to go."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I beg your pardon?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "King"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "It isn’t respectable to beg."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I only meant that I didn’t understand. Why one to come and one to go?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "King"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Don’t I tell you? I must have two—to fetch and carry. One to fetch, and one to carry."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "March Hare"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[<em>Enters, pants for breath—waves his hands about and makes fearful faces at the</em> King.]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "King"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "You alarm me! I feel faint—give me a ham sandwich. Another sandwich!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "March Hare"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "There’s nothing but hay left now."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "King"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Hay, then. There’s nothing like eating hay when you’re faint."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I should think throwing cold water over you would be better."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "King"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I didn’t say there was nothing <em>better</em>; I said there was nothing <em>like</em> it."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "King"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Who did you pass on the road?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "March Hare"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Nobody."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "King"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Quite right; this young lady saw him too. So of course Nobody walks slower than you."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "March Hare"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I do my best; I’m sure nobody walks much faster than I do."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "King"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "He can’t do that; or else he’d have been here first. However, now you’ve got your breath, you may tell us what’s happened in the town."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "March Hare"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I’ll whisper it."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[<em>Much to</em> Alice’s <em>surprise, he shouts into the</em> King’s _ear._]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "They’re at it again!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "King"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Do you call <em>that</em> a whisper? If you do such a thing again, I’ll have you buttered. It went through and through my head like an earthquake. Give me details, quick!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[<em>The</em> King <em>and</em> March Hare <em>go out, followed by</em> Five, Seven, <em>and</em> Nine Spots.]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Duchess"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[<em>Runs in and tucks her arm affectionately into</em> Alice’s.]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "You can’t think how glad I am to see you again, you dear old thing!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Oh!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Duchess"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "You’re thinking about something, my dear, and that makes you forget to talk. I can’t tell you just now what the moral of that is, but I shall remember it in a bit."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Perhaps it hasn’t one."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Duchess"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Tut, tut, child! Everything’s got a moral, if only you can find it."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[<em>Squeezes closely, digs her chin into</em> Alice’s <em>shoulder, and roughly drags</em> Alice _along for a walk._]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The game’s going on rather better now."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Duchess"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "’Tis so, and the moral of that is—“Oh, ’tis love, ’tis love, that makes the world go round!”"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Somebody said, that it’s done by everybody minding their own business."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Duchess"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ah, well! It means much the same thing, and the moral of <em>that</em> is—“Take care of the sense, and the sounds will take care of themselves.”"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "How fond you are of finding morals in things."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Duchess"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I daresay you’re wondering why I don’t put my arm round your waist. The reason is, that I’m doubtful about the temper of your flamingo. Shall I try the experiment?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "He might bite."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Duchess"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Very true; flamingoes and mustard both bite. And the moral of that is—“Birds of a feather flock together.”"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Only mustard isn’t a bird."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Duchess"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Right, as usual; what a clear way you have of putting things."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "It’s a mineral, I <em>think</em>."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Duchess"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Of course it is; there’s a large mustard mine near here. And the moral of that is—“The more there is of mine, the less there is of yours.”"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Oh! I know, it’s a vegetable. It doesn’t look like one, but it is."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Duchess"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I quite agree with you, and the moral of that is—“Be what you would seem to be;” or, if you’d like it put more simply, “Never imagine yourself not to be otherwise than what it might appear to others that what you were or might have been was not otherwise than what you had been would have appeared to them to be otherwise.”"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I think I should understand that better if I had it written down, but I can’t quite follow it as you say it."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Duchess"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "That’s nothing to what I could say if I chose."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Pray don’t trouble yourself to say it any longer than that."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Duchess"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Oh, don’t talk about trouble; I make you a present of everything I’ve said as yet."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Uhm!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Duchess"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Thinking again?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I’ve got a right to think."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Duchess"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Just about as much right as pigs have to fly, and the moral—"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[<em>The arm of the</em> Duchess <em>begins to tremble and her voice dies down. The</em> Queen of Hearts _stands before them with folded arms and frowning like a thunderstorm._]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Duchess"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "A fine day, your Majesty."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Queen"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Now, I give you fair warning, either you or your head must be off, and that in about half no time. Take your choice!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[<em>The</em> Duchess _goes meekly into the house._]"
+  },
+  {
+    "tag": "img",
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/alice-in-wonderland-play/master/assets/images/img18.jpg"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Queen"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Let’s go on with the game."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[_She goes off and shouts at intervals, “Off with his head; off with her head.”_]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cat"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "How are you getting on?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "It’s no use speaking to you till your ears have come. I don’t think they play at all fairly and they all quarrel so and they don’t seem to have any rules in particular. And you’ve no idea how confusing it is with all the things alive; there’s the arch I’ve got to go through next walking about at the other end of the ground—and I should have croqueted the Queen’s hedgehog just now, only it ran away when it saw mine coming."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[_Music begins._]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cat"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "How do you like the Queen?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Not at all; she’s so extremely—"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[<em>The</em> King, Queen <em>and entire court enter. The</em> Queen <em>is near to</em> Alice. <em>The music stops and all look at</em> Alice _questioningly._]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[Alice <em>tries to propitiate the</em> Queen.]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "——likely to win,"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[_Music continues._]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "that it’s hardly worth while finishing the game."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[Queen _smiles and passes on._]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "King"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Who <em>are</em> you talking to?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "It’s a friend of mine—a Cheshire Cat—allow me to introduce it."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "King"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I don’t like the look of it at all; however, it may kiss my hand if it likes."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cat"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I’d rather not."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "King"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Don’t be impertinent and don’t look at me like that."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "A cat may look at a king. I’ve read that in some book, but I don’t remember where."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "King"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Well, it must be removed. My dear! I wish you would have this cat removed."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Queen"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Off with his head!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Knave"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "But you can’t cut off a head unless there’s a body to cut it off from."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "King"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Anything that has a head can be beheaded."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Queen"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "If something isn’t done about it in less than no time, I’ll have everybody executed, all round."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "It belongs to the Duchess; you’d better ask her about it."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Duchess"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "It’s a lie!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cat"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "You’d better ask me. Do it if you can."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[<em>It grins away. The</em> Duchess <em>and</em> Frog _escape into the house._]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Queen"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cut it off!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "King"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "It’s gone."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Everybody"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "It’s gone! It’s gone! Where, where, where—"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Queen"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cut it off. Cut them all off!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Everybody"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "No, no, no!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Save me, save me!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Knave"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[<em>Shouts to</em> Alice _and gives her a tart for safety._]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Take a tart!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Queen"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[<em>Seeing</em> Alice _stand out a moment from the others._]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cut hers off! Cut hers off!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Others"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[<em>Glad to distract</em> Queen’s _attention from themselves._]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cut hers off, cut hers off, cut—"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[<em>Cries in fear and takes a quick bite at the tart. If there is a trap door on the stage</em> Alice <em>disappears down it, leaving the  crowd circling around the hole screaming and amazed. If the stage has no trap door, a bridge is built across the footlights with stairs leading down into the orchestra pit. When the crowd is chasing</em> Alice _she jumps over the footlights onto the bridge and as the curtain is falling dividing her from the crowd she appeals to the audience, “Save me, save me, who will save me?” and runs down the stairs and disappears._]"
+  },
+  {
+    "tag": "hr",
+    "innerHtml": ""
+  },
+  {
+    "tag": "h4",
+    "innerHtml": "Curtain"
+  },
+  {
+    "tag": "hr",
+    "innerHtml": ""
+  },
+  {
+    "tag": "h4",
+    "innerHtml": "Act Iii"
+  },
+  {
+    "tag": "hr",
+    "innerHtml": ""
+  },
+  {
+    "tag": "h4",
+    "innerHtml": "Scene One"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "<em>Is a garden of high, very conventional and artificial looking flowers. On a large mushroom sits the</em> Caterpillar <em>smoking a hookah.</em> Alice <em>is whirling about trying to get her equilibrium after her fall. She goes to the mushroom timidly and, conscious of her size, for her chin reaches the top of the mushroom, she gazes at the</em> Caterpillar <em>wonderingly. He looks at her lazily and speaks in a languid voice.</em>"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Caterpillar"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Who are you?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I—I hardly know, sir, just at present. The Queen frightened me so and I’ve had an awfully funny fall down a tunnel or a sort of well. At least I know who I was when I got up this morning, but I think I must have been changed several times since then."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Caterpillar"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "What do you mean by that? Explain yourself."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I can’t explain myself, I’m afraid, Sir, because I’m not myself, you see. Being so many different sizes in a day is very confusing."
+  },
+  {
+    "tag": "img",
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/alice-in-wonderland-play/master/assets/images/img19.jpg"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Caterpillar"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "You! Who are you?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I think you ought to tell me who you are, first."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Caterpillar"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Why?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[<em>As</em> Alice _turns away._]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Come back. I’ve something important to say."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[Alice _comes back._]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Keep your temper."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Is that all?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Caterpillar"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "No."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[_He puffs at the hookah in silence; finally takes it out of his mouth and unfolds his arms._]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "So you think you’re changed, do you?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I’m afraid I am, Sir; I don’t keep the same size."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Caterpillar"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "What size do you want to be?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I don’t know. At least I’ve never been so small as a caterpillar."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Caterpillar"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[_Rears angrily._]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "It is a very good height indeed."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "But I’m not used to it; I wish you wouldn’t all be so easily offended."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Caterpillar"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "You’ll get used to it in time."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Are you too big or am I too small?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[_She compares her height wonderingly with the tall flowers._]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Caterpillar"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[_Looks at her sleepily, yawns, shakes himself, slides down from the mushroom and crawls slowly away._]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "One side will make you grow taller, and the other side will make you grow shorter."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "One side of what? The other side of what?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Caterpillar"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Of the mushroom."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[Alice _hesitates, then embraces mushroom and picks bit from each side._]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[_Three gardeners representing spades enter carrying brushes and red paint cans._]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Two-Spot"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Look out now, Five. Don’t go splashing paint over me like that."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Five-Spot"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I couldn’t help it. Seven jogged my elbow."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Seven-Spot"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "That’s right, Five, always lay the blame on others."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Five-Spot"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "You’d better not talk. I heard the Queen say only yesterday you deserved to be beheaded."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Two-Spot"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "What for?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Seven-Spot"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "That’s none of your business, Two."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Five-Spot"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Yes, it is his business, and I’ll tell him. It was for bringing the cook tulip roots instead of onions."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Seven-Spot"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Well, of all the unjust things—"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[<em>Sees</em> Alice; _others look around, all bow._]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Could you please tell me what side to eat?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[Five <em>and</em> Seven <em>look at</em> Two.]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Two-Spot"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I don’t know anything about it."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[_He paints a white rose, red._]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "You ought to have been red, we put you in by mistake, and if the Queen was to find it out we should all have our heads cut off."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[_A thumping is heard off stage and the music grows louder and louder._]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "What’s that?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Five-Spot"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The White Chess Queen."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Seven-Spot"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Don’t let her see what we are doing."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Two-Spot"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "She’ll tell on us."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Seven-Spot"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Run out and stop her from coming here."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Five-Spot"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[<em>To</em> Alice _as she runs to the right._]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "No, no, the other way."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "But she’s off there!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Two-Spot"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "You can only meet her by walking the other way."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Oh! what nonsense."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "All the Gardeners"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Go the other way!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[_Re-enters in dismay and dashes out to the left._]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "She’s running away from me."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[<em>The</em> White Queen <em>backs in from right and</em> Alice <em>backs in from left. They meet. The gardeners cry “The Queen” and throw themselves flat upon the ground; their backs are like the backs of the rest of the pack. Music stops.</em> Alice <em>looks at the</em> Queen _curiously._]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Oh, there you are! Why, I’m just the size I was when I saw you last."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "White Queen"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Of course you are, and who are these? I can’t tell them by their backs."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[_She turns them over with her foot._]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Turn over. Ah! I thought so! Get up! What have you been doing here?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Two-Spot"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "May it please your Majesty, we were trying—"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "White Queen"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[_Examines rose._]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I see! Begone, or I’ll send the horses after you, and tell the Queen of Hearts."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[Gardeners <em>rush off. The</em> Red Queen <em>enters.</em> Alice <em>has gone to the mushroom again to look at its sides and there to her amazement finds a gold crown and scepter, which she immediately appropriates. Music. The</em> Queens <em>watch</em> Alice <em>superciliously.</em> Alice _puts on her crown, proudly exclaiming in great elation, “Queen Alice,” and walks down stage bowing right and left to the homage of imaginary subjects. She repeats as if scarcely daring to believe it true, “Queen Alice.” Music stops._]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Red Queen"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ridiculous!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Isn’t this the Eighth Square?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Red Queen"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "You can’t be a Queen, you know, till you’ve passed the proper examination."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "White Queen"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The sooner we begin it, the better."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Please, would you tell me—"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Red Queen"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Speak when you’re spoken to."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "But if everybody obeyed that rule, and if you only spoke when you were spoken to, and the other person always waited for you to begin, you see nobody would ever say anything, so that—"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Red Queen"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Preposterous."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I only said “if.”"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Red Queen"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "She says she only said “if.”"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "White Queen"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[_Moans and wrings her hands._]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "But she said a great deal more than that. Ah, yes, so much more than that."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Red Queen"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "So you did, you know; always speak the truth—think before you speak—and write it down afterwards."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I’m sure I didn’t mean—"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Red Queen"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "That’s just what I complained of. You <em>should</em> have meant! What do you suppose is the use of a child without any meaning? Even a joke should have some meaning—and a child’s more important than a joke, I hope. You couldn’t deny that, even if you tried with both hands."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I don’t deny things with my <em>hands</em>."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Red Queen"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Nobody said you did. I said you couldn’t if you tried."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "White Queen"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "She’s in that state of mind, that she wants to deny _something_—only she doesn’t know what to deny!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Red Queen"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "A nasty, vicious temper. I invite you to Alice’s dinner party this afternoon."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "White Queen"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "And I invite <em>you</em>."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I didn’t know I was to have a party at all; but if there is to be one, I think I ought to invite the guests."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Red Queen"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "We gave you the opportunity of doing it, but I dare say you’ve not had many lessons in manners yet."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Manners are not taught in lessons; lessons teach you to do sums, and things of that sort."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "White Queen"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Can you do addition? What’s one and one and one and one and one and one and one and one and one and one?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I don’t know. I lost count."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Red Queen"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "She can’t do addition; can you do subtraction? Take nine from eight."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Nine from eight I can’t, you know, but—"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "White Queen"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "She can’t do subtraction. Can you do division? Divide a loaf by a knife—what’s the answer to that?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I suppose—"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Red Queen"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[_Answers for her._]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Bread and butter, of course. Try another subtraction sum. Take a bone from a dog; what remains?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The bone wouldn’t remain, of course, if I took it—and the dog wouldn’t remain; it would come to bite me—and I’m sure I shouldn’t remain."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Red Queen"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Then you think nothing would remain?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I think that’s the answer."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Red Queen"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Wrong as usual; the dog’s temper would remain."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "But I don’t see how—"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Red Queen"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Why, look here; the dog would lose its temper, wouldn’t it?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Perhaps it would."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Red Queen"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Then if the dog went away, its temper would remain!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "They might go different ways! What dreadful nonsense we <em>are</em> talking."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Both Queens"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "She can’t do sums a bit!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Can <em>you</em> do sums?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "White Queen"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I can do addition, if you give me time—but I can’t do <em>subtraction</em> under <em>any</em> circumstances."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Red Queen"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Of course you know your A, B, C?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "To be sure I do."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "White Queen"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "So do I; we’ll often say it over together, dear. And I’ll tell you a secret—I can read words of one letter. Isn’t that grand? However, don’t be discouraged. You’ll come to it in time."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Red Queen"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Can you answer useful questions? How is bread made?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I know <em>that</em>! You take some flour—"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "White Queen"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Where do you pick the flower? In a garden or in the hedges?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Well, it isn’t <em>picked</em> at all. It’s ground—"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "White Queen"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "How many acres of ground? You mustn’t leave out so many things."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Red Queen"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Fan her head! She’ll be feverish after so much thinking."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[_They fan her with bunches of leaves which blow her hair wildly._]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Please—please—"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Red Queen"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "She’s all right again now. Do you know languages? What’s the French for fiddle-de-dee?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Fiddle-de-dee’s not English."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Red Queen"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Who ever said it was?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "If you tell me what language fiddle-de-dee is, I’ll tell you the French for it!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Red Queen"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Queens never make bargains!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I wish Queens never asked questions!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "White Queen"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Don’t let us quarrel; what is the cause of lightning?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The cause of lightning is the thunder—no, no! I meant the other way."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Red Queen"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "It’s too late to correct it; when you’ve once said a thing, that fixes it, and you must take the consequences."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "White Queen"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "We had <em>such</em> a thunderstorm next Tuesday, you can’t think."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Red Queen"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "She <em>never</em> could, you know."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "White Queen"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Part of the roof came off, and ever so much thunder got in—and it went rolling round the room in great lumps—and knocking over the tables and things—till I was so frightened, I couldn’t remember my own name!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I never should <em>try</em> to remember my name in the middle of an accident. Where would be the use of it?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Red Queen"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "You must excuse her. She means well, but she can’t help saying foolish things, as a general rule. She never was really well brought up, but it’s amazing how good tempered she is! Pat her on the head, and see how pleased she’ll be! A little kindness and putting her hair in papers would do wonders with her."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "White Queen"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[<em>Gives a deep sigh and leans her head on</em> Alice’s _shoulder._]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I <em>am</em> so sleepy!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Red Queen"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "She’s tired, poor thing; smooth her hair—lend her your night cap—and sing her a soothing lullaby."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I haven’t got a night cap with me, and I don’t know any soothing lullabies."
+  },
+  {
+    "tag": "img",
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/alice-in-wonderland-play/master/assets/images/img20tmb.jpg"
+  },
+  {
+    "tag": "p",
+    "innerHtml": ""
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice: Do wake up, you heavy things!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Red Queen"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I must do it myself, then."
+  },
+  {
+    "tag": "blockquote",
+    "innerHtml": "<p>Hush-a-by lady, in Alice’s lap!  \nTill the feast’s ready, we’ve time for a nap;<br>When the feast’s over, we’ll go to the ball—<br>Red Queen and White Queen and Alice and all!</p>"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "And now you know the words."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[<em>She puts her head on</em> Alice’s _other shoulder._]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Just sing it through to <em>me</em>. I’m getting sleepy too."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[_Both queens fall fast asleep and snore loudly._]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "What <em>am</em> I to do? Take care of two Queens asleep at once? Do wake up, you heavy things!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[<em>All lights go out, leaving a mysterious glow on</em> Alice _and the queens._]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "White Rabbit"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[_Blows trumpet off stage._]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The trial’s beginning!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "What trial is it?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "White Rabbit"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Who stole the tarts."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I ate a tart."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "White Rabbit"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "You’ve got to be tried."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I don’t want to be tried."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "White Rabbit"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "You’ve got to be tried."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I won’t be tried—I won’t-I won’t!"
+  },
+  {
+    "tag": "hr",
+    "innerHtml": ""
+  },
+  {
+    "tag": "h4",
+    "innerHtml": "Scene Two"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "<em>Is a court room suggesting playing cards. The jurymen are all kinds of creatures. The</em> King <em>and</em> Queen of Hearts <em>are seated on the throne. The</em> Knave <em>is before them in chains. The</em> White Rabbit <em>has a trumpet in one hand, and a scroll of parchment in the other. In the middle of the court stands a table with a large dish of tarts upon it.</em>"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "White Rabbit"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[_Blows three blasts on his trumpet._]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Silence in the court!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[_Watches jurymen writing busily on their slates._]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "What are they doing? They can’t have anything to put down yet, before the trial’s begun."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Knave"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "They’re putting down their names for fear they should forget them before the end of the trial."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Stupid things!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "White Rabbit"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Silence in the court!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Jurors"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[_Write in chorus._]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Stupid things!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "One Juror"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "How do you spell stupid?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "A nice muddle their slates will be in before the trial’s over."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Queen"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "There’s a pencil squeaking. Cut it down!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Jurors"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[_In chorus as they write._]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Squeaking—"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "King"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[_Wears a crown over his wig; puts on his spectacles as he says._]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Herald, read the accusation!"
+  },
+  {
+    "tag": "img",
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/alice-in-wonderland-play/master/assets/images/img21.jpg"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "White Rabbit"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[_Blows three blasts on his trumpet, unrolls parchment scroll and reads to music._]"
+  },
+  {
+    "tag": "blockquote",
+    "innerHtml": "<p>The Queen of Hearts, she made some tarts,<br>All on a summer day;<br>The Knave of Hearts, he stole those tarts,<br>And took them quite away!</p>"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "King"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Consider your verdict!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "White Rabbit"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Not yet, not yet; there’s a great deal to come before that."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "King"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Call the first witness."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "White Rabbit"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "First witness!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Hatter"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[_Comes in with a teacup in one hand and a piece of bread and butter in the other._]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I beg your pardon, your Majesty, for bringing these in, but I hadn’t quite finished my tea when I was sent for."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "King"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "You ought to have finished; when did you begin?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Hatter"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[<em>Looks at the</em> March Hare, <em>who follows him arm-in-arm with the</em> Dormouse.]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Fourteenth of March, I <em>think</em> it was."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "March Hare"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Fifteenth."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Dormouse"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Sixteenth."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "King"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Write that down."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Jury"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Fourteen, fifteen, sixteen—forty-five. Reduce that to shillings—"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "King"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Take off your hat."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Hatter"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "It isn’t mine."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "King"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "<em>Stolen!</em>"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Jury"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Stolen!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Hatter"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I keep them to sell. I’ve none of my own. I’m a hatter."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Queen of Hearts"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[<em>Puts on her spectacles and stares at</em> Hatter, _who fidgets uncomfortably._]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "King"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Give your evidence and don’t be nervous, or I’ll have you executed on the spot."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[<em>The</em> Hatter <em>continues to shift nervously from one foot to the other, looks uneasily at the</em> <em>Queen</em>, _trembles so that he shakes off both of his shoes, and in his confusion bites a large piece out of his teacup instead of the bread and butter._]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Hatter"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I’m a poor man, your Majesty, and I hadn’t but just begun my tea—not above a week or so—and what with the bread and butter getting so thin—and the twinkling of the tea—"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "King"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The twinkling of <em>what</em>?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Hatter"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "It began with the tea."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "King"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Of course twinkling begins with a T. Do you take me for a dunce? Go on!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Hatter"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I’m a poor man and most things twinkled after that—only the March Hare said—"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "March Hare"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I didn’t!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Hatter"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "You did."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "March Hare"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I deny it."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "King"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "He denies it; leave out that part."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Queen"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "But what did the Dormouse say?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Hatter"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "That I can’t remember."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "King"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "You <em>must</em> remember or I’ll have you executed."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Hatter"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[_Drops teacup and bread and butter and goes down on one knee._]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I’m a poor man, your Majesty."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "King"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "If that’s all you know about it you may stand down."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Hatter"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I can’t go no lower; I’m on the floor as it is."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "King"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Then you may sit down."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Hatter"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I’d rather finish my tea."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "King"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "You may go."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[<em>The</em> Hatter _goes out hurriedly, leaving one of his shoes behind._]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Queen"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[_Nonchalantly to an officer._]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "And just take his head off outside."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[<em>But the</em> Hatter _was out of sight before the officer could get to the door._]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "King"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Call the next witness!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "White Rabbit"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Next witness!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[<em>The</em> Duchess <em>enters with a pepper pot, which she shakes about. Everybody begins to sneeze.</em> March Hare _sneezes and rushes out._]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "King"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Give your evidence!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Duchess"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Shan’t!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "White Rabbit"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Your Majesty must cross-examine <em>this</em> witness."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "King"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Well, if I must, I must. What does your cook say tarts are made of?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Duchess"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Pepper."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[<em>The</em> Duchess _shakes the pot and the court sneezes._]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Dormouse"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Treacle!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[<em>The</em> Duchess _shakes the pot at him. He sneezes for the first time._]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Queen"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Collar the Dormouse! Behead the Dormouse! Turn that Dormouse out of court! Suppress him! Pinch him! Off with his whiskers!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[<em>The whole court is in confusion, turning the</em> Dormouse <em>out, and while it is settling down again the</em> Duchess _disappears._]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "White Rabbit"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The Duchess!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Court"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "She’s gone—she’s gone."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "King"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Never mind!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[<em>In a low tone to the</em> Queen.]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Really, my dear, <em>you</em> must cross-examine the next witness. It quite makes my forehead ache! Call the next witness!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "White Rabbit"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[_Fumbles with the parchment, then cries in a shrill little voice._]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Here!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "King"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "What do you know about this business?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Nothing whatever."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "King"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[_To the jury._]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "That’s very important."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "White Rabbit"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "<em>Un_important, your Majesty means, of course</em>."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "King"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "<em>Un_important, of course I meant. Important—unimportant—unimportant—important. Consider your verdict!</em>"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[_Some of the jury write “important” and some write “unimportant.”_]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "White Rabbit"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "There’s more evidence to come yet, please your Majesty; this paper has just been picked up."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Queen"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "What’s in it?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "White Rabbit"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[_Fumbles with a huge envelope._]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I haven’t opened it yet, but it seems to be a letter, written by the prisoner to—to somebody."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "King"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "It must have been that unless it was written to nobody, which isn’t usual, you know."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Who is it directed to?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "White Rabbit"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "It isn’t directed at all; in fact, there’s nothing written on the <em>outside</em>."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[_Takes out a tiny piece of paper._]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "It isn’t a letter at all; it’s a set of verses."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Queen"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Are they in the prisoner’s handwriting?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[_The jury brightens up._]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "White Rabbit"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[<em>Looks at the</em> Knave’s <em>hand.</em> Knave _hides his hand; the chains rattle._]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "No, they’re not, and that’s the queerest thing about it."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[_The jury looks puzzled._]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "King"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "He must have imitated somebody else’s hand!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Knave"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Please, your Majesty, I didn’t write it and they can’t prove I did; there’s no name signed at the end."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "King"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "If you didn’t sign it that only makes the matter worse. You <em>must</em> have meant some mischief, or else you’d have signed your name like an honest man."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[_At this there is a general clapping of hands._]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Queen"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "That <em>proves</em> his guilt."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "It proves nothing of the sort! Why, you don’t even know what they’re about."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "King"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Read them!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "White Rabbit"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[_Puts on his monocle._]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Where shall I begin, please your Majesty?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "King"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Begin at the beginning and go on till you come to the end, then stop."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "White Rabbit"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "“They told me you had been to her,<br>And mentioned me to him;<br>She gave me a good character,<br>But said I could not swim."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "“I gave her one, they gave him two,<br>You gave us three or more;<br>They all returned from him to you,<br>Though they were mine before."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "“My notion was that you had been<br>(Before she had this fit)<br>An obstacle that came between<br>Him, and ourselves, and it."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "“Don’t let him know she liked him best,<br>For this must ever be<br>A secret, kept from all the rest,<br>Between yourself and me.”"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "King"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "That’s the most important piece of evidence we’ve heard yet; so now let the jury—"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "If anyone of them can explain it, I’ll give him sixpence. I don’t believe there’s an atom of meaning in it."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Jury"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "She doesn’t believe there’s an atom of meaning in it."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "King"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "If there’s no meaning in it, that saves a world of trouble, you know, as we needn’t try to find any. And yet I don’t know."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[_Spreads out the verses on his knee and studies them._]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I seem to see some meaning after all. “Said I could not swim.” You can’t swim, can you?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Knave"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[_Shakes his head sadly and points to his suit._]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Do I look like it?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "King"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "All right, so far; “We know it to be true,” that’s the jury, of course; “I gave her one, they gave him two” why that must be what he did with the tarts, you know—"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "But it goes on “they all returned from <em>him</em> to <em>you</em>.”"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "King"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[_Triumphantly pointing to the tarts._]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Why, there they are! Nothing can be clearer than that. Then again, “before she had this fit,” you never had fits, my dear, I think?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Queen"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Never!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "King"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Then the words don’t <em>fit</em> you."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[<em>There is dead silence, while the</em> King _looks around at the court with a smile._]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "King"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "It’s a pun!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[_Everybody laughs. Music._]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "King"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Let the jury consider their verdict."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Queen"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "No, no! Sentence first—verdict afterwards."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Stuff and nonsense!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Queen"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[_Furiously._]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Hold your tongue!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I won’t!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Queen"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Off with her head!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Who cares for you?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Queen"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cut it off!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "You’re nothing but a pack of cards!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[_As lights go out and curtain falls all the characters hold their positions as if petrified._]"
+  },
+  {
+    "tag": "hr",
+    "innerHtml": ""
+  },
+  {
+    "tag": "h4",
+    "innerHtml": "Curtain"
+  },
+  {
+    "tag": "hr",
+    "innerHtml": ""
+  },
+  {
+    "tag": "h4",
+    "innerHtml": "Scene Three"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[<em>The curtain rises to show</em> Alice _still asleep in the armchair, the fire in the grate suffusing her with its glow._]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Carroll"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Wake up, Alice, it is time for tea."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[<em>Off stage the characters repeat their most characteristic lines, “Off with her head,” “Consider your verdict,” “Oh! my fur and whiskers”; the</em> Duchess <em>sneezes, the cat cries,  as if the characters were fading away into the pack of real playing cards which shower through the mirror all over</em> Alice. _There is music._]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alice"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[_Wakes, rises, and looks about in surprise and wonderment._]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Why——it was a dream!"
+  },
+  {
+    "tag": "hr",
+    "innerHtml": ""
+  },
+  {
+    "tag": "blockquote",
+    "innerHtml": "<p>CURTAIN FALLS</p>"
+  },
+  {
+    "tag": "h3",
+    "innerHtml": "The End"
+  }
+]

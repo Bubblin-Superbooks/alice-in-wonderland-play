@@ -1,0 +1,22 @@
+{
+  "name": "Alice in Wonderland Play",
+  "type": "novel",
+  "has_page_numbers": true,
+  "mode": {
+    "HTML": "html",
+    "CSS": "css",
+    "JS": "js",
+    "HEAD": "html"
+  },
+  "cover": {
+    "punchline": "",
+    "toc": "",
+    "author_detail": "",
+    "colophon": "",
+    "synopsis": ""
+  },
+  "status": "published",
+  "asset_url": "https://raw.githubusercontent.com/marvindanig/alice-in-wonderland-play/master/assets",
+  "book_id": 989,
+  "book_url": "https://bubblin.io/book/alice-in-wonderland-play-by-lewis-carroll-and-alice-gerstenberg"
+}
